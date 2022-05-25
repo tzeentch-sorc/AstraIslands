@@ -1,11 +1,3 @@
-
-Intermediate/CachedAssetRegistry.bin
-Intermediate/Config/CoalescedSourceConfigs/Crypto.ini
-Intermediate/Config/CoalescedSourceConfigs/Encryption.ini
-Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini
-Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini
-Intermediate/Config/CoalescedSourceConfigs/UnrealInsightsSettings.ini
-Intermediate/ReimportCache/3688439234.bin
-Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
-Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+Config/HoloLens/
+Intermediate/
 Saved/
